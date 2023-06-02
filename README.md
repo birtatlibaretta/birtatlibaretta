@@ -1,5 +1,5 @@
-# 💫 About Me:
-I'm an electrical and electronics engineer.<br>I'm currently working on data science and cybersecurity.<br>I love writing code and learn anythings about it .<br>How to reach me: Email - 2beratarsln1@gmail.com
+# ⚡ About Me:
+👋 I'm an electrical and electronics engineer.<br> 🔭 I'm currently working on data science and cybersecurity.<br> 🫶 I love writing code and learn anythings about it .<br> 📧 How to reach me:Email - 2beratarsln1@gmail.com
 
 
 ## 🌐 Socials:
